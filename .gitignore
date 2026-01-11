@@ -1,0 +1,66 @@
+# Archivos y carpetas de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de usuario
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*.log
+
+# Carpetas de entorno de desarrollo
+.vscode/
+.idea/
+
+# Archivos de control de versiones
+*.orig
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+ENV/
+venv/
+
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+
+# Archivos de salida
+build/
+dist/
+
+# Archivos de presentación
+*.pptx
+*.docx
+*.odp
+
+# Otros
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+
+# Archivos temporales de sistema operativo
+~$*
